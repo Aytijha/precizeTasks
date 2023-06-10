@@ -1,0 +1,6 @@
+<classpath>
+  <classpathentry kind="src" path="src"/>
+  <classpathentry kind="lib" path="lib/mysql-connector-java-8.0.33.jar"/>
+  <!-- Add any other dependencies or classpath entries here -->
+  <classpathentry kind="output" path="bin"/>
+</classpath>
